@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Chris 👋
 
 <!--
 **chrisande71173/chrisande71173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
